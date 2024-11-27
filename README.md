@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://amallal2004.github.io/Blog-preview-card/](#)
+- Live Site URL: [Live Site URL](https://amallal2004.github.io/Blog-preview-card/)
 
 ---
 
